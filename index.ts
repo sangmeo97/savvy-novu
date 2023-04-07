@@ -1,1 +1,1 @@
-export * from './providers/slack/lib/slack.provider';
+export * from "./src/providers/slack/lib/slack.provider";
