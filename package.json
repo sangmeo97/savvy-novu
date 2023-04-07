@@ -1,12 +1,12 @@
 {
   "name": "savvy-novu",
-  "version": "0.14.0",
+  "version": "0.13.0",
   "description": "A slack wrapper for novu",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
   "private": false,
-  "repository": "https://github.com/novuhq/novu",
+  "repository": "https://github.com/sangmeo97/savvy-novu",
   "license": "MIT",
   "keywords": [],
   "scripts": {
@@ -90,6 +90,5 @@
     "exclude": [
       "**/*.spec.js"
     ]
-  },
-  "gitHead": "e1055f2fd2f0ec9a85d64b271c7d5824bdb381d0"
+  }
 }
